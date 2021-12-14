@@ -1,0 +1,3 @@
+(library
+ (name A01_hello_color)
+ (libraries base stdio))

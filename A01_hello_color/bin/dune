@@ -1,0 +1,4 @@
+(executable
+ (public_name A01_hello_color)
+ (name main)
+ (libraries A01_hello_color))
