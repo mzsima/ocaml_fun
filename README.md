@@ -2,9 +2,15 @@
 
 ## 試しに色々書いてみる。
 
+## メモ
+各プロジェクトはduneで作成しています。
+```
+dune init proj 01_hello_color
+```
+
 ## List
 
-- 01_hello_color_cli 
+- A01_hello_color
 helloに色をつけて表示するコマンド
 
 
