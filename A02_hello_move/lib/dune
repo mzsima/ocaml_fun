@@ -1,0 +1,3 @@
+(library
+ (name A02_hello_move)
+ (libraries async))

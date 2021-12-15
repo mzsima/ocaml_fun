@@ -1,0 +1,4 @@
+(executable
+ (public_name A02_hello_move)
+ (name main)
+ (libraries A02_hello_move))
