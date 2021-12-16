@@ -1,0 +1,8 @@
+(executable
+ (public_name A03_keybord_detect)
+ (name main)
+ (libraries sdl2 A03_keybord_detect))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
