@@ -1,0 +1,6 @@
+(executable
+ (public_name A04_hello_timer)
+ (name main)
+ (preprocess (pps lwt_ppx ppx_let))
+ (libraries lwt_ppx lwt lwt.unix A04_hello_timer)
+)

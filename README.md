@@ -16,6 +16,8 @@ helloに色をつけて表示するコマンド
 - A02_hello_move
 helloの場所に動きをつけて表示するコマンド
 
-
 - A03_keyboard_detect
 SDLでキーボードのイベントを表示するコマンド
+
+- A04_hello_timer
+LWTでタイマーを表示するコマンド
