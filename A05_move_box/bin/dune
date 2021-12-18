@@ -1,0 +1,6 @@
+(executable
+ (public_name A05_move_box)
+ (name main)
+ (preprocess (pps lwt_ppx ppx_let))
+ (libraries lwt_ppx lwt lwt.unix A05_move_box)
+)
