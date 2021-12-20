@@ -1,0 +1,5 @@
+(executable
+ (public_name A06_words_waterfall)
+ (name main)
+ (preprocess (pps lwt_ppx ppx_let))
+ (libraries lwt_ppx lwt lwt.unix A06_words_waterfall))
