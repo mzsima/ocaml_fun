@@ -1,0 +1,4 @@
+(executable
+ (public_name A07_poke_dot)
+ (name main)
+ (libraries A07_poke_dot))

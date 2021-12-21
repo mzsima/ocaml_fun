@@ -1,0 +1,2 @@
+(library
+ (name A07_poke_dot))
