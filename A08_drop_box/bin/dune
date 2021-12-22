@@ -1,0 +1,9 @@
+(executable
+ (public_name A08_drop_box)
+ (name main)
+ (preprocess (pps lwt_ppx ppx_let))
+ (libraries base stdio lwt_ppx lwt lwt.unix A08_drop_box))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
