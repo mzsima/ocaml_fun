@@ -1,0 +1,9 @@
+(executable
+ (public_name A09_stack_block)
+ (name main)
+ (preprocess (pps lwt_ppx ppx_let))
+ (libraries base stdio lwt_ppx lwt lwt.unix A09_stack_block))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
