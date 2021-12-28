@@ -1,0 +1,2 @@
+(library
+ (name A10_clear_block))
