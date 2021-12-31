@@ -1,0 +1,7 @@
+(library
+ (name mydict)
+ (libraries base))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
