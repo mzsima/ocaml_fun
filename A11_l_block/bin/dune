@@ -1,0 +1,5 @@
+(executable
+ (public_name A11_l_block)
+ (name main)
+ (preprocess (pps lwt_ppx ppx_let))
+ (libraries base stdio lwt_ppx lwt lwt.unix A11_l_block))
