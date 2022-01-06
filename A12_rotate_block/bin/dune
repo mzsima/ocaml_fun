@@ -1,0 +1,8 @@
+(executable
+ (public_name A12_rotate_block)
+ (name main)
+ (libraries base stdio sdl2 A12_rotate_block))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
