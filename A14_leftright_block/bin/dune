@@ -1,0 +1,8 @@
+(executable
+ (public_name A14_leftright_block)
+ (name main)
+ (libraries unix base stdio sdl2 A14_leftright_block))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
