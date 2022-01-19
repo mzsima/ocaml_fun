@@ -1,0 +1,8 @@
+(executable
+ (public_name A15_move_and_stack_block)
+ (name main)
+ (libraries unix base stdio sdl2 A15_move_and_stack_block))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)

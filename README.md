@@ -51,3 +51,6 @@ L字ブロックを表示するよ
 
 - A14_leftright_block
 ブロックを左右に動かすよ
+
+- A15_move_and_stack_block
+ブロックを左右に動かす＋積み上げるよ
