@@ -1,0 +1,8 @@
+(executable
+ (public_name A17_move_stack_rotate_block)
+ (name main)
+ (libraries unix base stdio sdl2 A17_move_stack_rotate_block))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)

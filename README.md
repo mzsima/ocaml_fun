@@ -57,3 +57,6 @@ L字ブロックを表示するよ
 
 - A16_side_wall_block
 左右に壁を立てるよ
+
+- A17_move_stack_rotate_block
+ブロックを左右に動かす＋積み上げる＋回転させるよ
