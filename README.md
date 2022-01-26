@@ -60,3 +60,6 @@ L字ブロックを表示するよ
 
 - A17_move_stack_rotate_block
 ブロックを左右に動かす＋積み上げる＋回転させるよ
+
+- A18_move_stack_rotate_delete
+ブロックを左右に動かす＋積み上げる＋回転させるよ+揃ったら消すよ
