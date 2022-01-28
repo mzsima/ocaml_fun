@@ -1,0 +1,8 @@
+(executable
+ (public_name A19_tetris)
+ (name main)
+ (libraries unix base stdio sdl2 A19_tetris))
+(env
+ (dev
+  (flags (:standard -warn-error -a)))
+)
