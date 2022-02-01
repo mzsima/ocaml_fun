@@ -5,6 +5,7 @@ _perf
 *.install
 .merlin
 *.corrected
+esy.lock
 
 # vim swap files
 *.swp
