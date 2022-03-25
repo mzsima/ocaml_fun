@@ -8,6 +8,11 @@
 dune init proj 01_hello_color
 ```
 
+jsoo系は下記コマンドでjsファイルを作成。なにかサーバーを起動してmain.htmlをブラウザで開くと確認できます。
+```
+dune build main.bc.js
+```
+
 ## List
 
 - A01_hello_color
@@ -66,3 +71,6 @@ L字ブロックを表示するよ
 
 - A19_tetris
 なんとなくテトリスっぽい何か。
+
+- A23_jsoo_breakout_game_1
+ブロック崩しっぽいなにか。
